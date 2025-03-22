@@ -1,0 +1,10 @@
+Class Tasks
+1. Complete the questions 1 to 3 in the given file Lab 03 Class Tasks
+
+2. Upload the .py files containing client and server codes for each task by compressing in rar/zip/7z.
+
+Naming format of your zip : ID_Name_Lab number
+Home Tasks
+1. Complete the question 4 in the given file Lab 03 Home Task
+
+2. Upload the .py files containing client and server codes by compressing in rar/zip/7z.

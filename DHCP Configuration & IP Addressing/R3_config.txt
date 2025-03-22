@@ -1,0 +1,6 @@
+R3>en
+R3#conf t
+
+R3(config)#interface gigabitEthernet 0/0
+R3(config-if)#ip helper-address 10.2.2.2
+R3(config-if)#

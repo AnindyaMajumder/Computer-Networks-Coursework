@@ -1,0 +1,6 @@
+R1>enable
+R1#conf t
+
+R1(config)#interface gigabitEthernet 0/0
+R1(config-if)#ip helper-address 10.1.1.2
+R1#
